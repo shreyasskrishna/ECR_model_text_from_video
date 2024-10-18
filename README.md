@@ -1,1 +1,1 @@
-# ECR_model_text_from_video
+I implemented a basic OCR model to extract text from videos using OpenCV for video frame processing, EasyOCR for text recognition, and Matplotlib for visualizing the results. This project showcases the integration of computer vision and OCR to identify and display text from video streams efficiently.
